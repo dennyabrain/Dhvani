@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="src/LFO.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="339" topLine="18" />
+	</File>
+	<File name="src/LFO.h" open="0" top="0" tabpos="4">
+		<Cursor position="85" topLine="2" />
+	</File>
+	<File name="src/RingModulator.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="2589" topLine="73" />
+	</File>
+	<File name="src/Sample.h" open="1" top="0" tabpos="6">
+		<Cursor position="1569" topLine="62" />
+	</File>
+	<File name="src/TuioDump.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="2395" topLine="39" />
+	</File>
+	<File name="src/TuioDump.h" open="1" top="0" tabpos="5">
+		<Cursor position="1557" topLine="29" />
+	</File>
+	<File name="src/TuioThread.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="24" topLine="0" />
+	</File>
+	<File name="src/TuioThread.h" open="0" top="0" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="src/main.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="383" topLine="0" />
+	</File>
+	<File name="src/testApp.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="5499" topLine="162" />
+	</File>
+	<File name="src/testApp.h" open="1" top="0" tabpos="2">
+		<Cursor position="200" topLine="31" />
+	</File>
+	<File name="src/waveGenerator.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="2522" topLine="53" />
+	</File>
+	<File name="src/waveGenerator.h" open="0" top="0" tabpos="6">
+		<Cursor position="465" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
